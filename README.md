@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-Task-Tracker
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -36,3 +37,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# vue.js-project
+profile page using components and applying emit function
+>>>>>>> 94b2dcd9f59d2a0f14a5ef3a8eacc001693b1ba2
